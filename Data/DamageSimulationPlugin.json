@@ -1,0 +1,13 @@
+{
+  "Author": "Mind Infection",
+  "Name": "Damage Simulator",
+  "Punchline": "Trick attack is hard",
+  "Description": "Allows for sims",
+  "InternalName": "DamSimPlugin",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
