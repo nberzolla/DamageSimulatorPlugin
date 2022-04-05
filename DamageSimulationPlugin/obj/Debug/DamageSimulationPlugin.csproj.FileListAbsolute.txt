@@ -1,0 +1,12 @@
+C:\Users\nateb\AppData\Roaming\XIVLauncher\devPlugins\SamplePlugin\goat.png
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.csproj.AssemblyReference.cache
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.AssemblyInfoInputs.cache
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.AssemblyInfo.cs
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.csproj.CoreCompileInputs.cache
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.dll
+C:\Users\nateb\ffxiv_mod\DamageSimulationPlugin\DamageSimulationPlugin\obj\Debug\DamageSimulationPlugin.pdb
+C:\Users\nateb\AppData\Roaming\XIVLauncher\devPlugins\SamplePlugin\DamageSimulationPlugin.json
+C:\Users\nateb\AppData\Roaming\XIVLauncher\devPlugins\SamplePlugin\DamageSimulationPlugin.deps.json
+C:\Users\nateb\AppData\Roaming\XIVLauncher\devPlugins\SamplePlugin\DamageSimulationPlugin.dll
+C:\Users\nateb\AppData\Roaming\XIVLauncher\devPlugins\SamplePlugin\DamageSimulationPlugin.pdb
